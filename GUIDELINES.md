@@ -1,0 +1,1 @@
+A modern Next.js & TypeScript web app for interacting with LLMs locally via Ollama. Run powerful AI models on your own machine with full data privacy, offline capability, and zero API costs.
