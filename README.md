@@ -20,7 +20,7 @@ A modern **Next.js + TypeScript** web app for chatting with AI models running lo
 
 ## Requirements
 
-- [Node.js](https://nodejs.org) 18+
+- [Node.js](https://nodejs.org) 
 - [Ollama](https://ollama.com) running locally on port `11434`
 - A model pulled in Ollama, e.g. `ollama pull gemma3:270m`
 
