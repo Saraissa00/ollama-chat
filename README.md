@@ -53,3 +53,4 @@ Both talk to the same local Ollama model — pick whichever interface you prefer
 - [TypeScript](https://www.typescriptlang.org) — strict type safety
 - [Tailwind CSS v4](https://tailwindcss.com) — utility-first styling
 - [Ollama](https://ollama.com) — local LLM inference
+
